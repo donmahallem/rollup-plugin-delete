@@ -52,7 +52,7 @@
     "directory"
   ],
   "engines": {
-    "node": ">=10"
+    "node": ">=14"
   },
   "license": "MIT"
 }
