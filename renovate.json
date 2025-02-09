@@ -1,5 +1,6 @@
 {
     "baseBranches": ["master"],
     "forkProcessing": "enabled",
+    "separateMultipleMajor":true,
     "extends": ["github>donmahallem/renovate-config"]
 }
