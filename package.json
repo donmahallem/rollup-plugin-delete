@@ -32,7 +32,7 @@
     "jest": "26.0.1",
     "replace-in-file": "6.3.5",
     "rimraf": "3.0.2",
-    "rollup": "2.15.0",
+    "rollup": "4.34.6",
     "rollup-plugin-auto-external": "2.0.0"
   },
   "files": [
